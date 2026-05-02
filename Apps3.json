@@ -1,0 +1,22 @@
+{
+  "apps": [
+    {
+      "title": "Test VLC",
+      "description": "Test",
+      "url": "https://get.videolan.org/vlc-android/last/VLC-Android-3.7.0-armeabi-v7a.apk",
+      "mirror": "",
+      "category": "Test",
+      "app_review": "",
+      "ver": "3.7.0"
+    },
+    {
+      "title": "Test SmartTube",
+      "description": "Test",
+      "url": "https://github.com/yuliskov/SmartTube/releases/download/latest/smarttube_stable.apk",
+      "mirror": "",
+      "category": "Test",
+      "app_review": "",
+      "ver": "latest"
+    }
+  ]
+}
