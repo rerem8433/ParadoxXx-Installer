@@ -20,7 +20,7 @@
     {
       "title": "TizenTube Cobalt",
       "description": "TizenTube Cobalt est une application basée sur Cobalt qui améliore votre expérience de streaming préféré en supprimant les publicités, en ajoutant le support SponsorBlock",
-      "url": "https://github.com/reisxd/TizenTubeCobalt/releases/download/latest/cobalt-arm.apk",
+      "url": "https://github.com/reisxd/TizenTubeCobalt/releases/download/v1.0.8/cobalt-arm.apk",
       "mirror": "tizentube",
       "ver": "1.0.8",
       "category": "YouTube"
@@ -117,7 +117,7 @@
     {
       "title": "Downloader by AFTVnews (Android TV)",
       "description": "Navigateur/telechargeur bien connu pour AndroidTV et Amazon FireSticks.",
-      "url": "https://d.apkpure.com/b/APK/com.esaba.downloader?version=latest",
+      "url": "https://www.dropbox.com/scl/fi/ztu7skhbxosk2o8d954f5/Downloader-by-AFTVnews_2.0.3-ForGoogleAndroidDevices_APKPure.apk?rlkey=y55ae95qg39f5bi5q9xpvwhoy&dl=1",
       "app_review": "https://www.youtube.com/watch?v=ZuxE14gGoRc",
       "mirror": "downloader",
       "ver": "2.3.0",
@@ -126,7 +126,7 @@
     {
       "title": "VIA Browser",
       "description": "Navigateur Internet avec bloqueur de pubs",
-      "url": "https://d.apkpure.com/b/APK/mark.via.gp?version=latest",
+      "url": "https://res.viayoo.com/v1/via-release.apk",
       "mirror": "via",
       "ver": "7.1.0",
       "category": "Navigateurs"
