@@ -143,6 +143,7 @@
       "title": "RustDesk",
       "description": "Logiciel RustDesk pour prise en main à distance",
       "url": "https://github.com/rustdesk/rustdesk/releases/download/1.4.6/rustdesk-1.4.6-universal-signed.apk",
+      "mirror": "rustdesk",
       "ver": "1.4.6",
       "category": "Assistance"
     },
@@ -190,6 +191,7 @@
       "title": "Adresse serveur AtlasPro",
       "description": "http://apbest.re ou http://ninap.xyz",
       "url": "http://apbest.re",
+      "app_review": "http://apbest.re",
       "mirror": "adresse",
       "ver": "1.00",
       "category": "IPTV Atlas Pro"
@@ -238,6 +240,7 @@
       "title": "Adresse serveur OTT Premium",
       "description": "http://dob-1.com ou https://150250.org:8080 ou http://280360.org",
       "url": "http://dob-1.com",
+      "app_review": "http://dob-1.com",
       "mirror": "ott1",
       "ver": "1",
       "category": "IPTV OTT Premium"
