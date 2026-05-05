@@ -1,13 +1,48 @@
 {
   "apps": [
     {
-      "title": "Rustdesk depannage",
+      "title": "Z-Rustdesk depannage",
       "description": "Pour prise de controle",
       "url": "https://google.fr/1.apk",
       "mirror": "rustdesk1",
-      "app_review": "https://dl.dropboxusercontent.com/scl/fi/exbynvv3pzdbuh0lrufsh/Rustdesk-D-pannage.mp4?rlkey=cf75l1o7yh7dythr1cg9zylfx",
+      "app_review": "https://dl.dropboxusercontent.com/scl/fi/exbynvv3pzdbuh0lrufsh/Rustdesk-D-pannage.mp4?rlkey=cf75l1o7yh7dythr1cg9zylfx&dl=1",
       "category": "Tutoriels",
       "ver": "99.0"
+    },
+        {
+      "title": "Z-Changer ses DNS avec ByeByeDPI",
+      "description": "Utilisation de ByeByeDPI pour modifier les DNSe",
+      "url": "https://google.fr/1.apk",
+      "mirror": "dns2",
+      "app_review": "https://dl.dropboxusercontent.com/scl/fi/apemosaieow0pqpwadpch/ByeByeDPI.mp4?rlkey=0je46l2eisaxbmv2bcet0alyk&dl=0",
+      "category": "Tutoriels",
+      "ver": "99.4"
+    },
+    {
+      "title": "Z-Changer ses DNS sous AndroidTV",
+      "description": "Modifier dans les parametres Android les DNS pour contourner la censure des Fournisseurs Internet",
+      "url": "https://google.fr/1.apk",
+      "mirror": "dns1",
+      "app_review": "https://www.dropbox.com/scl/fi/kmqnmyeeipmwi8k8hdu85/Changer-les-DNS.mp4?rlkey=rwovs5rj9rni0mmi4wublf1ot",
+      "ver": "99.3"
+    },
+    {
+      "title": "Z-AlphaBackup Restore Apps",
+      "description": "Comment restaurer les donnees de ses applis grace a une sauvegarde anterieure",
+      "url": "https://google.fr/1.apk",
+      "mirror": "alphabackup1",
+      "app_review": "https://dl.dropboxusercontent.com/scl/fi/faqueaeb3mf5gktca8y11/AlphaBackup-Restore-Apps.mp4?rlkey=z5lnied554aa02fhk4gl5xg2s",
+      "category": "Tutoriels",
+      "ver": "99.2"
+    },
+    {
+      "title": "Z-Rustdesk initialisation",
+      "description": "Si reinitialisation du boitier et besoin de configurer le logiciel",
+      "url": "https://google.fr/1.apk",
+      "mirror": "rustdesk1",
+      "app_review": "https://dl.dropboxusercontent.com/scl/fi/xqzgmdns4c82cn4h4gd8h/RustDesk-Initialisation.mp4?rlkey=4l39ri71nqpkyc3zucg8fbabb",
+      "category": "Tutoriels",
+      "ver": "99.1"
     },
     {
       "title": "SmartTube",
