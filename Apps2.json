@@ -1,12 +1,13 @@
 {
   "apps": [
     {
-      "title": "Browser for ATV",
-      "description": "Browser for ATV",
-      "url": "https://www.dropbox.com/scl/fi/3cz9hxokw1fn0rbpr0k36/Browser-for-TV-2.13.36.apk?rlkey=u2xw1c6y8a7ta5063joplxcve&dl=1",
-      "mirror": "browser",
-      "category": "Navigateurs",
-      "ver": "2.13.36"
+      "title": "Rustdesk depannage",
+      "description": "Pour prise de controle",
+      "url": "https://google.fr/1.apk",
+      "mirror": "rustdesk1",
+      "app_review": "https://www.dropbox.com/scl/fi/exbynvv3pzdbuh0lrufsh/Rustdesk-D-pannage.mp4?rlkey=cf75l1o7yh7dythr1cg9zylfx&dl=1",
+      "category": "Tutoriels",
+      "ver": "99.0"
     },
     {
       "title": "SmartTube",
@@ -61,9 +62,9 @@
     {
       "title": "(NEW) Nova Video Player",
       "description": "Lecteur video entierement gratuit et tres puissant pour decodeurs. Prend en charge le transfert audio direct (passthrow), la lecture DoVi (y compris Profle 7) et l'utilisation des ressources du reseau local. Il existe un systeme complet de parametres et la possibilite de creer un catalogue pratique a partir de votre collection de films et de series televisees.",
-      "url": "https://dl.dropboxusercontent.com/scl/fi/oae1l0z1g8507r1fyrdhk/Nova_VideoPlayer_6.4.33_armv7.apk?rlkey=010vtl1zh9tirriy9ggydqivf&dl=0",
+      "url": "https://www.dropbox.com/scl/fi/n51c5sdwclog6rv8llas6/Nova-VideoPlayer-6.4.36-armv7.apk?rlkey=t54nxi1en5099sabbgavufeqc&dl=1",
       "mirror": "nova",
-      "ver": "6.4.33",
+      "ver": "6.4.36",
       "category": "Lecteurs videos"
     },
     {
