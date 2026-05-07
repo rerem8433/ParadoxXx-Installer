@@ -4,12 +4,12 @@
       "title": "Z-Rustdesk depannage",
       "description": "Pour prise de controle",
       "url": "https://google.fr/1.apk",
-      "mirror": "rustdesk1",
-      "app_review": "https://dl.dropboxusercontent.com/scl/fi/exbynvv3pzdbuh0lrufsh/Rustdesk-D-pannage.mp4?rlkey=cf75l1o7yh7dythr1cg9zylfx&dl=1",
+      "mirror": "rustdesk2",
+      "app_review": "https://dl.dropboxusercontent.com/scl/fi/exbynvv3pzdbuh0lrufsh/Rustdesk-D-pannage.mp4?rlkey=cf75l1o7yh7dythr1cg9zylfx&dl=0",
       "category": "Tutoriels",
       "ver": "99.0"
     },
-        {
+    {
       "title": "Z-Changer ses DNS avec ByeByeDPI",
       "description": "Utilisation de ByeByeDPI pour modifier les DNSe",
       "url": "https://google.fr/1.apk",
@@ -23,7 +23,7 @@
       "description": "Modifier dans les parametres Android les DNS pour contourner la censure des Fournisseurs Internet",
       "url": "https://google.fr/1.apk",
       "mirror": "dns1",
-      "app_review": "https://www.dropbox.com/scl/fi/kmqnmyeeipmwi8k8hdu85/Changer-les-DNS.mp4?rlkey=rwovs5rj9rni0mmi4wublf1ot",
+      "app_review": "https://dl.dropboxusercontent.com/scl/fi/kmqnmyeeipmwi8k8hdu85/Changer-les-DNS.mp4?rlkey=rwovs5rj9rni0mmi4wublf1ot&dl=0",
       "ver": "99.3"
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "title": "SmartTube",
-      "description": "Un excellent remplacement pour YouTube classique. Interface conviviale, frequence d'images automatiques (pour les decodeurs), pas de publicite et SponsorBlock. Version stable.",
+      "description": "Un excellent remplacement pour YouTube classique. Interface conviviale, frequence d images automatiques (pour les decodeurs), pas de publicite et SponsorBlock. Version stable.",
       "url": "https://github.com/yuliskov/SmartTube/releases/download/latest/smarttube_stable.apk",
       "mirror": "smarttube",
       "app_review": "https://www.youtube.com/watch?v=ZuxE14gGoRc",
@@ -55,14 +55,14 @@
     },
     {
       "title": "TizenTube Cobalt",
-      "description": "TizenTube Cobalt est une application basée sur Cobalt qui améliore votre expérience de streaming préféré en supprimant les publicités, en ajoutant le support SponsorBlock",
+      "description": "TizenTube Cobalt est une application bas ee sur Cobalt qui am eliore votre exp erience de streaming pr ef er e en supprimant les publicit es, en ajoutant le support SponsorBlock",
       "url": "https://github.com/reisxd/TizenTubeCobalt/releases/download/v1.0.8/cobalt-arm.apk",
       "mirror": "tizentube",
       "ver": "1.0.8",
       "category": "YouTube"
     },
     {
-      "title": "(NEW) ByeByeDPI (1512236)",
+      "title": "ByeByeDPI (New)",
       "description": "Une application Android qui execute un service VPN local pour contourner le DPI (Deep Packet Inspection) et la censure.",
       "url": "https://github.com/romanvht/ByeByeDPI/releases/download/v.1.7.4/ByeByeDPI-v1.7.4-armeabi-v7a-release.apk",
       "mirror": "byebyedpi",
@@ -79,7 +79,7 @@
     },
     {
       "title": "Intra DNS",
-      "description": "Intra vous protège contre la manipulation DNS, une technique de piratage visant à bloquer l'accès aux sites de presse",
+      "description": "Intra vous protege contre la manipulation DNS, une technique de piratage visant a bloquer l acces aux sites de presse",
       "url": "https://dl.dropboxusercontent.com/scl/fi/yfxo4aq6iql4u8y7pec3k/app.intra_72.apk?rlkey=73tsbv082hromo9dtd57ewhd5&dl=0",
       "app_review": "https://getintra.org/intl/fr_fr/",
       "mirror": "intra",
@@ -87,7 +87,7 @@
       "category": "VPN"
     },
     {
-      "title": "(NEW) Vimu Media Player️",
+      "title": "Vimu Media Player️ (NEW)",
       "description": "Le meilleur lecteur pour regarder des videos sur Android TV.",
       "url": "https://dl.dropboxusercontent.com/scl/fi/jtpiy33e1iieetm4bdck2/Vimu_Media_Player_12.00_ST.apk?rlkey=w7epomnzpr3nrj58uwawiiv4n&dl=0",
       "mirror": "vimu",
@@ -95,8 +95,8 @@
       "category": "Lecteurs videos"
     },
     {
-      "title": "(NEW) Nova Video Player",
-      "description": "Lecteur video entierement gratuit et tres puissant pour decodeurs. Prend en charge le transfert audio direct (passthrow), la lecture DoVi (y compris Profle 7) et l'utilisation des ressources du reseau local. Il existe un systeme complet de parametres et la possibilite de creer un catalogue pratique a partir de votre collection de films et de series televisees.",
+      "title": "Nova Video Player (NEW)",
+      "description": "Lecteur video entierement gratuit et tres puissant pour decodeurs. Il existe un systeme complet de parametres et la possibilite de creer un catalogue pratique a partir de votre collection de films et de series televisees.",
       "url": "https://www.dropbox.com/scl/fi/n51c5sdwclog6rv8llas6/Nova-VideoPlayer-6.4.36-armv7.apk?rlkey=t54nxi1en5099sabbgavufeqc&dl=1",
       "mirror": "nova",
       "ver": "6.4.36",
@@ -128,7 +128,7 @@
     },
     {
       "title": "Aptoide",
-      "description": "Store alternatif n'impliquant pas l'ajout d'un compte Google",
+      "description": "App Store alternatif n impliquant pas l ajout d un compte Google",
       "url": "https://pool.apk.aptoide.com/aptoide-web/cm-aptoide-pt-12060-71289868-2725e9ae81839a4ae69f8f362fc4d7e1.apk?apk_name=aptoide",
       "mirror": "aptoide",
       "ver": "9.22.5.3",
@@ -250,7 +250,7 @@
     },
     {
       "title": "AtlasPro Prime (Android TV uniquement)",
-      "description": "AtlasPro Prime 2.4.6. Inspiree de l'application NexTV avec une interface plus proche esthetiquement d'une appli NetFlix",
+      "description": "AtlasPro Prime 2.4.6. Inspiree de l application NexTV avec une interface plus proche esthetiquement d une appli NetFlix",
       "url": "https://dl.dropboxusercontent.com/scl/fi/ied7okqbq6vb9ihig3u22/ATLASPRO_Prime.apk?rlkey=u33vcrxcg7tceow2yg8cnmz36&dl=0",
       "mirror": "apprime",
       "ver": "2.4.6",
@@ -258,7 +258,7 @@
     },
     {
       "title": "AtlasPro iBo",
-      "description": "AtlasPro iBo. Inspiree de l'application MediaPlayer iBo des TVs Samsung/LG",
+      "description": "AtlasPro iBo. Inspiree de l application MediaPlayer iBo des TVs Samsung/LG",
       "url": "https://dl.dropboxusercontent.com/scl/fi/oayvd6jsw4n0av7ti145m/ATLAS-PRO-IBO.apk?rlkey=ak90t4eu8e174mf3qvzaq435z&dl=0",
       "mirror": "apibo",
       "ver": "4.3",
@@ -282,16 +282,16 @@
       "category": "IPTV OTT Premium"
     },
     {
-      "title": "OTT Premium Smarters(1520454)",
-      "description": "Lecteur base sur le celebre IPTV Smarters Pro avec fonction de téléchargements",
+      "title": "OTT Premium Smarters (1520454)",
+      "description": "Lecteur base sur le celebre IPTV Smarters Pro avec fonction de t el echargements",
       "url": "https://dl.dropboxusercontent.com/scl/fi/eki1mlxufijrjdg5uv6ff/OTT-Premium-Smarters-4.1.1.apk?rlkey=evtjhp5bgnhkvskue6reoqbtf&dl=0",
       "mirror": "ottpremium",
       "ver": "4.1.1",
       "category": "IPTV OTT Premium"
     },
     {
-      "title": "(NEW) OTT Premium Prime BETA (NEW)",
-      "description": "Inspiree de l'application NexTV avec une interface plus proche esthetiquement d'une appli NetFlix",
+      "title": "OTT Premium Prime BETA (NEW)",
+      "description": "Inspiree de l application NexTV avec une interface plus proche esthetiquement d une appli NetFlix",
       "url": "https://dl.dropboxusercontent.com/scl/fi/xzby2ixhj95p3xy1q0a7t/OTT-Premium-Prime-2.4.9-signed.apk?rlkey=fuyvt73hioawvtuxy5wslnlia&dl=0",
       "mirror": "ottprime",
       "ver": "2.4.9",
@@ -299,7 +299,7 @@
     },
     {
       "title": "OTT Premium Tivimate",
-      "description": "Basee sur le celebre Tivimate, cette application a des fonctionnalités de suggestions et une esthetique rafinee",
+      "description": "Basee sur le celebre Tivimate, cette application a des fonctionnalites de suggestions et une esthetique rafinee",
       "url": "https://dl.dropboxusercontent.com/scl/fi/nbly79n5dmc8wghm68vl8/OTT-Premium-Tivimate-5.1.0.apk?rlkey=f33qb99lefbw0x18rkyji9050&dl=0",
       "mirror": "otttivi",
       "ver": "5.1.0",
@@ -314,8 +314,8 @@
       "category": "IPTV OTT Premium"
     },
     {
-      "title": "NEW 9Xtream NEW",
-      "description": "Nouvelle application IPTV permettant le telechargement de films/séries pour recuperer ensuite sur une cle USB/HDD",
+      "title": "9Xtream 46.0.0 **NEW**",
+      "description": "Nouvelle application IPTV permettant le telechargement de films/series et possibilite ensuite de recuperer les telechargements sur une cle USB/HDD",
       "url": "https://www.dropbox.com/scl/fi/kmt243jeujxso51xiptf9/9Xtream_46.0.0.apk?rlkey=dbozh7gkjrz19uuc2rpfgja8e&dl=1",
       "mirror": "9xtream",
       "ver": "46.0.0",
