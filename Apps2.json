@@ -7,33 +7,34 @@
       "mirror": "rustdesk2",
       "app_review": "https://dl.dropboxusercontent.com/scl/fi/exbynvv3pzdbuh0lrufsh/Rustdesk-D-pannage.mp4?rlkey=cf75l1o7yh7dythr1cg9zylfx&dl=0",
       "category": "Tutoriels",
-      "ver": "99.0"
+      "ver": "99.00"
     },
     {
       "title": "Z-Changer ses DNS avec ByeByeDPI",
-      "description": "Utilisation de ByeByeDPI pour modifier les DNSe",
-      "url": "https://google.fr/1.apk",
+      "description": "Utilisation de ByeByeDPI pour modifier les DNS",
+      "url": "https://google.fr/2.apk",
       "mirror": "dns2",
       "app_review": "https://dl.dropboxusercontent.com/scl/fi/apemosaieow0pqpwadpch/ByeByeDPI.mp4?rlkey=0je46l2eisaxbmv2bcet0alyk&dl=0",
       "category": "Tutoriels",
-      "ver": "99.4"
+      "ver": "99.04"
     },
     {
       "title": "Z-Changer ses DNS sous AndroidTV",
       "description": "Modifier dans les parametres Android les DNS pour contourner la censure des Fournisseurs Internet",
-      "url": "https://google.fr/1.apk",
+      "url": "https://google.fr/3.apk",
       "mirror": "dns1",
       "app_review": "https://dl.dropboxusercontent.com/scl/fi/kmqnmyeeipmwi8k8hdu85/Changer-les-DNS.mp4?rlkey=rwovs5rj9rni0mmi4wublf1ot&dl=0",
-      "ver": "99.3"
+      "category": "Tutoriels",
+      "ver": "99.03"
     },
     {
       "title": "Z-AlphaBackup Restore Apps",
       "description": "Comment restaurer les donnees de ses applis grace a une sauvegarde anterieure",
-      "url": "https://google.fr/1.apk",
+      "url": "https://google.fr/4.apk",
       "mirror": "alphabackup1",
       "app_review": "https://dl.dropboxusercontent.com/scl/fi/faqueaeb3mf5gktca8y11/AlphaBackup-Restore-Apps.mp4?rlkey=z5lnied554aa02fhk4gl5xg2s",
       "category": "Tutoriels",
-      "ver": "99.2"
+      "ver": "99.02"
     },
     {
       "title": "Z-Rustdesk initialisation",
@@ -42,7 +43,7 @@
       "mirror": "rustdesk1",
       "app_review": "https://dl.dropboxusercontent.com/scl/fi/xqzgmdns4c82cn4h4gd8h/RustDesk-Initialisation.mp4?rlkey=4l39ri71nqpkyc3zucg8fbabb",
       "category": "Tutoriels",
-      "ver": "99.1"
+      "ver": "99.01"
     },
     {
       "title": "SmartTube",
@@ -64,9 +65,9 @@
     {
       "title": "ByeByeDPI (New)",
       "description": "Une application Android qui execute un service VPN local pour contourner le DPI (Deep Packet Inspection) et la censure.",
-      "url": "https://github.com/romanvht/ByeByeDPI/releases/download/v.1.7.4/ByeByeDPI-v1.7.4-armeabi-v7a-release.apk",
+      "url": "https://github.com/romanvht/ByeByeDPI/releases/download/v.1.7.5/ByeByeDPI-v1.7.5-armeabi-v7a-release.apk",
       "mirror": "byebyedpi",
-      "ver": "1.7.4",
+      "ver": "1.7.5",
       "category": "VPN"
     },
     {
@@ -114,7 +115,7 @@
       "title": "MX Player",
       "description": "Lecteur alternatif pour regarder des videos sur Android TV.",
       "url": "https://dl.dropboxusercontent.com/scl/fi/gtolpq5pdlx9dzulun1ho/MX-Player-v2.0.0-Premium.apk?rlkey=b18l3gfxrkwwl18xm4ufys5ba&dl=0",
-      "mirror": "mx-player",
+      "mirror": "mxplayer",
       "ver": "2.0.0",
       "category": "Lecteurs videos"
     },
@@ -228,7 +229,7 @@
       "description": "http://apbest.re ou http://ninap.xyz",
       "url": "http://apbest.re",
       "app_review": "http://apbest.re",
-      "mirror": "adresse",
+      "mirror": "apbest",
       "ver": "1.00",
       "category": "IPTV Atlas Pro"
     },
@@ -278,11 +279,11 @@
       "url": "http://dob-1.com",
       "app_review": "http://dob-1.com",
       "mirror": "ott1",
-      "ver": "1",
+      "ver": "1.00",
       "category": "IPTV OTT Premium"
     },
     {
-      "title": "OTT Premium Smarters (1520454)",
+      "title": "Premium OTT V4",
       "description": "Lecteur base sur le celebre IPTV Smarters Pro avec fonction de t el echargements",
       "url": "https://dl.dropboxusercontent.com/scl/fi/eki1mlxufijrjdg5uv6ff/OTT-Premium-Smarters-4.1.1.apk?rlkey=evtjhp5bgnhkvskue6reoqbtf&dl=0",
       "mirror": "ottpremium",
@@ -290,7 +291,7 @@
       "category": "IPTV OTT Premium"
     },
     {
-      "title": "OTT Premium Prime BETA (NEW)",
+      "title": "OTT Prime BETA (NEW)",
       "description": "Inspiree de l application NexTV avec une interface plus proche esthetiquement d une appli NetFlix",
       "url": "https://dl.dropboxusercontent.com/scl/fi/xzby2ixhj95p3xy1q0a7t/OTT-Premium-Prime-2.4.9-signed.apk?rlkey=fuyvt73hioawvtuxy5wslnlia&dl=0",
       "mirror": "ottprime",
@@ -310,7 +311,7 @@
       "description": "XCIPTV PLAYER utilise ExoPlayer et VLC Player. Cette application peut etre installee sur les telephones, tablettes et televiseurs Android.",
       "url": "https://dl.dropboxusercontent.com/scl/fi/m87i3le836xvrpt2nzvgb/XCIPTV-v7.0-Mod.apk?rlkey=2qedmb5bsy229xtizzkz5ub3y&dl=0",
       "mirror": "xciptv",
-      "ver": "7.0.900",
+      "ver": "7.0.909",
       "category": "IPTV OTT Premium"
     },
     {
