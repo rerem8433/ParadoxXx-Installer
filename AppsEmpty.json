@@ -1,13 +1,13 @@
 {
-	"links": [
+	"apps": [
     {
-      "title": "RustDesk Depannage",
-      "description": "Merci de demander a votre vendeur le lien URL du fichier de configuration afin que vous le renseignez\na gauche dans URL Config\n et valider l'adresse saisie afin de faire apparaitre la liste des logiciels.\n\n Si vous laissez appuyé ici, cela vous ouvrira un tutoriel video vous montrant la marche a suivre.",
+      "title": "Premier lancement",
+      "description": "Merci de demander a votre vendeur le lien URL du fichier de configuration afin de le renseigner\na gauche où vous voyez écrit\n\n "URL Config"\n\n puis cliquer sur "Appliquer" afin de faire apparaitre la liste des logiciels.\n\n Si, en étant sur cette case (en surbrillance), vous laissez appuyé sur la touche OK de votre télécommande\n cela ouvrira un tutoriel video dans votre navigateur internet afin de vous montrer la manipulation a effectuer.",
       "url": "https://raw.githubusercontent.com/rerem8433/paradoxxx.installer/refs/heads/main/AppsEmpty.json",
       "mirror": "",
   	  "app_review": "https://dl.dropboxusercontent.com/scl/fi/exbynvv3pzdbuh0lrufsh/Rustdesk-D-pannage.mp4?rlkey=cf75l1o7yh7dythr1cg9zylfx",
       "ver": "2026.05.08",
-      "category": "URls"
+      "category": ""
     }
   ]
 }
