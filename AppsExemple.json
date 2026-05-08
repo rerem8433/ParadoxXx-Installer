@@ -1,0 +1,13 @@
+{
+	"apps": [
+  {
+    "title": "SmartTube",
+    "description": "Un excellent remplacement pour YouTube classique. Interface conviviale, frequence d'images automatiques (pour les decodeurs), pas de publicite/sponsors grace a SponsorBlock. Version stable.",
+    "url": "https://github.com/yuliskov/SmartTube/releases/download/latest/smarttube_stable.apk",
+    "mirror": "https://go.aftvnews.com/28544",
+    "app_review": "https://www.youtube.com/watch?v=ZuxE14gGoRc",
+    "ver": "31.63",
+    "category": "YouTube"
+  	}
+  ]
+}
