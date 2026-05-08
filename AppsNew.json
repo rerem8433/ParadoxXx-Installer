@@ -15,7 +15,7 @@
 	},
 	{
   "title": "AtlasPro : Adresses URL du serveur ",
-  "description": "Pour tester si blocage du FAI, laissez appuyer sur ok ici.\nSi vous voyez une page blanche avec ecrit ON en haut a gauche, le serveur est accessible pour vous.\nSi la page ne veut pas s afficher, rentrez une de ces 2 adresses dans votre application:\n\n- http://apbest.re \nou\n- http://ninap.xyz",
+  "description": "Pour tester si blocage du FAI, laissez appuyer sur ok ici.\nSi vous voyez une page blanche avec ecrit ON en haut a gauche, le serveur est accessible pour vous.\nSi la page ne veut pas s afficher, merci d'installer ByeByeDPI afin de modifier vos *DNS* qui vons permettront de contourner ce blocage.\n\n  -- Vous pouvez vérifier si ceux-ci ont bien été appliqués en ciquant ici sur **Verificateur Resolveur DNS** qui va vous amener sur le site\n www.browserleaks.com/dns \n et si vous voyez apparaitre en bas de page Cloudflare ou Google ou Quad9 : vous êtes OK.",
   "url": "http://apbest.re",
   "app_review": "http://apbest.re",
   "ver": "1.00",
@@ -44,6 +44,13 @@
 	},
   ],
   "apps": [
+	{
+    "title": "0                                                                😁 BIENVENUE 😁",
+    "description": "                                Je vous souhaite la bienvenue sur votre nouveau magasin *Appstore*. Voici la méthodologie d'utilisation afin d'installer des applications (classées de A à Z sur le premier onglet, ou rangées par catégories en cliquant sur les touches gauche/droite de votre télécommande), vous avez deux possibilités:\n\n                - Installation unique : Aller sur l'application voulue (indicateur de case en surbrillance) puis cliquer sur OK de votre télécommande afin que le signe *check* apparaisse sur la droite (indiquant que vous avez sélectionné l'application) puis vous déplacer tout à gauche et cliquer sur **INSTALLER**.\n Vous verrez apparaitre une barre de progression puis une fenêtre apparaitre vous proposant d'installer l'application. \n\n                - Installation multiple : Aller sur chaque logiciel désiré et les sélectionner avec la touche OK de votre télécommande (vérifier le signe *check* à droite) pour ensuite aller vous positionner sur **INSTALLER**.\n                Cela va lancer le téléchargement et l'installation de toutes les applications sélectionnées à la suite. IL EST IMPORTANT d'attendre un petit peu que toutes les applications soient téléchargées, les écrans de proposition d'installation apparaissant à la suite les uns des autres.\n                Lorsque vous cliquez sur Installer pour la première application et qu'elle s'est installée, il est IMPERATIF de cliquer sur OK afin que la fenêtre se ferme et que la deuxième application vous soit proposée à l'installation.Et ce ainsi de suite jusqu'à revenir à l'écran des applications.\n\n                                                                😁 BONNE UTILISATION 😁\n ParadoxXx Squad",
+    "url": "",
+    "app_review": "",
+    "category": "URLs"
+  	},
 	{
   "title": "9Xtream ** NEW **",
   "description": "Nouvelle application IPTV permettant le telechargement de films/séries pour recuperer ensuite sur une cle USB/HDD",
