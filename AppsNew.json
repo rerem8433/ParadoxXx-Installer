@@ -60,7 +60,7 @@
   "category": "IPTV OTT Premium"
 	},
 	{
-  "title": "AnyDesk",
+  "title": "AnyDesk 👨🏻‍💻",
   "description": "A utiliser si Android 11 TV sur le boitier",
   "url": "https://download.anydesk.com/anydesk.apk",
   "app_review": "",
@@ -68,7 +68,7 @@
   "category": "Assistance"
 	},
 	{
-  "title": "AnyDesk Plugin AD1",
+  "title": "AnyDesk Plugin AD1 👨🏻‍💻",
   "description": "A utiliser si Android 11 TV sur le boitier, installation obligatoire avec AnyDesk",
   "url": "https://download.anydesk.com/android/plugins/adcontrol-ad1.apk",
   "app_review": "",
@@ -76,7 +76,7 @@
   "category": "Assistance"
 	},
 	{
-  "title": "Aptoide",
+  "title": "Aptoide 📱",
   "description": "Store alternatif n'impliquant pas l'ajout d'un compte Google",
   "url": "https://pool.apk.aptoide.com/aptoide-web/cm-aptoide-pt-12060-71289868-2725e9ae81839a4ae69f8f362fc4d7e1.apk?apk_name=aptoide",
   "app_review": "",
@@ -84,7 +84,7 @@
   "category": "Utilitaires"
 	},
 	{
-  "title": "Aptoide TV",
+  "title": "Aptoide TV 📱",
   "description": "Version AndroidTV de la celebre application Aptoide",
   "url": "https://pool.apk.aptoide.com/carolyne-silva/cm-aptoidetv-pt-542-72049303-6212d8ef0991eaf05b32f8f0141dadb8.apk",
   "app_review": "",
@@ -132,7 +132,7 @@
   "category": "IPTV Atlas Pro"
 	},
 	{
-  "title": "Browser for ATV",
+  "title": "Browser for ATV 🌐",
   "description": "Browser for ATV",
   "url": "https://www.dropbox.com/scl/fi/3cz9hxokw1fn0rbpr0k36/Browser-for-TV-2.13.36.apk?rlkey=u2xw1c6y8a7ta5063joplxcve&dl=1",
   "app_review": "",
@@ -140,7 +140,7 @@
   "category": "Navigateurs"
 	},
 	{
-  "title": "ByeByeDPI ** NEW **",
+  "title": "ByeByeDPI ** NEW ** 📡",
   "description": "Une application Android qui execute un service VPN local pour contourner le DPI (Deep Packet Inspection) et la censure.",
   "url": "https://github.com/romanvht/ByeByeDPI/releases/download/v.1.7.5/ByeByeDPI-v1.7.5-armeabi-v7a-release.apk",
   "app_review": "https://dl.dropboxusercontent.com/scl/fi/apemosaieow0pqpwadpch/ByeByeDPI.mp4?rlkey=0je46l2eisaxbmv2bcet0alyk",
@@ -156,7 +156,7 @@
   "category": "Utilitaires"
 	},
 	{
-  "title": "Downloader by AFTVnews (Android TV)",
+  "title": "Downloader by AFTVnews (Android TV) 📱",
   "description": "Navigateur/telechargeur bien connu pour AndroidTV et Amazon FireSticks.",
   "url": "https://d.apkpure.com/b/APK/com.esaba.downloader?version=latest",
   "app_review": "https://www.youtube.com/watch?v=ZuxE14gGoRc",
@@ -172,7 +172,7 @@
   "category": "Utilitaires"
 	},
 	{
-  "title": "Intra DNS ** NEW **",
+  "title": "Intra DNS ** NEW ** 📡",
   "description": "Intra vous protège contre la manipulation DNS, une technique de piratage visant à bloquer l'accès aux sites de presse",
   "url": "https://dl.dropboxusercontent.com/scl/fi/yfxo4aq6iql4u8y7pec3k/app.intra_72.apk?rlkey=73tsbv082hromo9dtd57ewhd5&dl=0",
   "app_review": "https://getintra.org",
@@ -180,7 +180,7 @@
   "category": "VPN"
 	},
 	{
-  "title": "MX Player",
+  "title": "MX Player ⏯️",
   "description": "Lecteur alternatif pour regarder des videos sur Android TV.",
   "url": "https://dl.dropboxusercontent.com/scl/fi/gtolpq5pdlx9dzulun1ho/MX-Player-v2.0.0-Premium.apk?rlkey=b18l3gfxrkwwl18xm4ufys5ba&dl=0",
   "app_review": "",
@@ -188,7 +188,7 @@
   "category": "Lecteurs videos"
 	},
 	{
-  "title": "Nova Video Player ** NEW **",
+  "title": "Nova Video Player ** NEW ** ⏯️",
   "description": "Lecteur video entierement gratuit et tres puissant pour decodeurs. Prend en charge le transfert audio direct (passthrow), la lecture DoVi (y compris Profle 7) et l'utilisation des ressources du reseau local. Il existe un systeme complet de parametres et la possibilite de creer un catalogue pratique a partir de votre collection de films et de series televisees.",
   "url": "https://dl.dropboxusercontent.com/scl/fi/oae1l0z1g8507r1fyrdhk/Nova_VideoPlayer_6.4.33_armv7.apk?rlkey=010vtl1zh9tirriy9ggydqivf&dl=0",
   "app_review": "",
@@ -196,7 +196,7 @@
   "category": "Lecteurs videos"
 	},
 	{
-  "title": "Open Browser Lite",
+  "title": "Open Browser Lite 🌐",
   "description": "Navigateur Internet avec bloqueur de pubs",
   "url": "https://dl.dropboxusercontent.com/scl/fi/qub38wmi4nxwarv7qga6f/open-browser-lite-web-browser-3-5-8-1042.apk?rlkey=l5v3dds889v9xzomin8l0v831&dl=0",
   "app_review": "",
@@ -220,7 +220,7 @@
   "category": "IPTV OTT Premium"
 	},
 	{
-  "title": "PowerTunnel for Android",
+  "title": "PowerTunnel for Android 📡",
   "description": "Une solution de censure anti-gouvernementale simple, evolutive, multiplateforme et efficace pour Android.",
   "url": "https://github.com/krlvm/PowerTunnel-Android/releases/download/v2.6.3/PowerTunnel.apk",
   "app_review": "",
@@ -244,7 +244,7 @@
   "category": "Utilitaires"
 	},
 	{
-  "title": "RustDesk",
+  "title": "RustDesk 👨🏻‍💻",
   "description": "Logiciel RustDesk pour prise en main à distance",
   "url": "https://github.com/rustdesk/rustdesk/releases/download/1.4.6/rustdesk-1.4.6-universal-signed.apk",
   "app_review": "",
@@ -252,7 +252,7 @@
   "category": "Assistance"
 	},
 	{
-  "title": "SmartTube",
+  "title": "SmartTube [ ▶︎ ]",
   "description": "Un excellent remplacement pour YouTube classique. Interface conviviale, frequence d'images automatiques (pour les decodeurs), pas de publicite et SponsorBlock. Version stable.",
   "url": "https://github.com/yuliskov/SmartTube/releases/download/latest/smarttube_stable.apk",
   "mirror": "https://go.aftvnews.com/28544",
@@ -261,7 +261,7 @@
   "category": "YouTube"
 	},
 	{
-  "title": "TeamViewer Host",
+  "title": "TeamViewer Host 👨🏻‍💻",
   "description": "Logiciel pour prise en main à distance SANS confirmation",
   "url": "https://download.teamviewer.com/download/TeamViewerHost.apk",
   "app_review": "",
@@ -269,7 +269,7 @@
   "category": "Assistance"
 	},
 	{
-  "title": "TizenTube Cobalt ** NEW **",
+  "title": "TizenTube Cobalt ** NEW ** [ ▶︎ ]",
   "description": "TizenTube Cobalt est une application basée sur Cobalt qui améliore votre expérience de streaming préféré en supprimant les publicités, en ajoutant le support SponsorBlock",
   "url": "https://github.com/reisxd/TizenTubeCobalt/releases/download/latest/cobalt-arm.apk",
   "mirror": "https://cobalt.6513006.xyz",
@@ -277,7 +277,7 @@
   "category": "YouTube"
 	},
 	{
-  "title": "VIA Browser",
+  "title": "VIA Browser 🌐",
   "description": "Navigateur Internet avec bloqueur de pubs",
   "url": "https://d.apkpure.com/b/APK/mark.via.gp?version=latest",
   "mirror": "https://dl.dropboxusercontent.com/scl/fi/v66qc3xef0wbh4oy3z0lx/Via_Browser_7.1.0.apk?rlkey=1vrsfpbsiyu5v5id804l5db4r&dl=1",
@@ -286,7 +286,7 @@
   "category": "Navigateurs"
 	},
 	{
-  "title": "Vimu Media Player️ ** NEW **",
+  "title": "Vimu Media Player️ ** NEW ** ⏯️",
   "description": "Le meilleur lecteur pour regarder des videos sur Android TV.",
   "url": "https://dl.dropboxusercontent.com/scl/fi/jtpiy33e1iieetm4bdck2/Vimu_Media_Player_12.00_ST.apk?rlkey=w7epomnzpr3nrj58uwawiiv4n&dl=0",
   "app_review": "",
@@ -294,7 +294,7 @@
   "category": "Lecteurs videos"
 	},
 	{
-  "title": "VLC Media Player",
+  "title": "VLC Media Player ⏯️",
   "description": "Lecteur alternatif pour regarder des videos sur Android TV.",
   "url": "https://get.videolan.org/vlc-android/last/VLC-Android-3.7.0-armeabi-v7a.apk",
   "app_review": "",
@@ -310,7 +310,7 @@
   "category": "IPTV OTT Premium"
 	},
 	{
-  "title": "Zeus Browser",
+  "title": "Zeus Browser 🌐",
   "description": "Navigateur Internet avec bloqueur de pubs",
   "url": "https://dl.dropboxusercontent.com/scl/fi/blh6mnalvt2psahrkjifd/Zeus-Internet-Browser-v9.3.17-Premium.apk?rlkey=ylyl6zzyltjfjgx0ndp5ddnwo&dl=0",
   "app_review": "",
