@@ -1,12 +1,47 @@
 {
   "links": [
 	{
+  "title": "0-Verificateur Resolveur DNS",
+  "description": "Site Browserleaks.com pour verifier les DNS actuels du boitier/telephone EN BAS DE PAGE",
+  "url": "https://browserleaks.com/dns",
+  "category": "Tutoriels"
+	},
+	{
   "title": "AlphaBackup Restore Apps",
   "description": "Comment restaurer les donnees de ses applis grace a une sauvegarde anterieure",
   "url": "https://dl.dropboxusercontent.com/scl/fi/faqueaeb3mf5gktca8y11/AlphaBackup-Restore-Apps.mp4?rlkey=z5lnied554aa02fhk4gl5xg2s",
   "app_review": "https://dl.dropboxusercontent.com/scl/fi/faqueaeb3mf5gktca8y11/AlphaBackup-Restore-Apps.mp4?rlkey=z5lnied554aa02fhk4gl5xg2s",
   "category": "Tutoriels"
-	}
+	},
+	{
+  "title": "AtlasPro : Adresses URL du serveur ",
+  "description": "Pour tester si blocage du FAI, laissez appuyer sur ok ici.\nSi vous voyez une page blanche avec ecrit ON en haut a gauche, le serveur est accessible pour vous.\nSi la page ne veut pas s afficher, rentrez une de ces 2 adresses dans votre application:\n\n- http://apbest.re \nou\n- http://ninap.xyz",
+  "url": "http://apbest.re",
+  "app_review": "http://apbest.re",
+  "ver": "1.00",
+  "category": "IPTV Atlas Pro"
+	},
+	{
+  "title": "Changer les DNS v2",
+  "description": "Utilisation de ByeByeDPI pour modifier les DNS",
+  "url": "https://dl.dropboxusercontent.com/scl/fi/apemosaieow0pqpwadpch/ByeByeDPI.mp4?rlkey=0je46l2eisaxbmv2bcet0alyk",
+  "app_review": "https://dl.dropboxusercontent.com/scl/fi/apemosaieow0pqpwadpch/ByeByeDPI.mp4?rlkey=0je46l2eisaxbmv2bcet0alyk",
+  "category": "Tutoriels"
+	},
+	{
+  "title": "Rustdesk Depannage",
+  "description": "Quand RustDesk est DEJA installe",
+  "url": "https://dl.dropboxusercontent.com/scl/fi/exbynvv3pzdbuh0lrufsh/Rustdesk-D-pannage.mp4?rlkey=cf75l1o7yh7dythr1cg9zylfx",
+  "app_review": "https://dl.dropboxusercontent.com/scl/fi/exbynvv3pzdbuh0lrufsh/Rustdesk-D-pannage.mp4?rlkey=cf75l1o7yh7dythr1cg9zylfx",
+  "category": "Tutoriels"
+	},
+	{
+  "title": "RustDesk Initialisation",
+  "description": "Si reinitialisation du boitier et besoin de configurer le logiciel",
+  "url": "https://dl.dropboxusercontent.com/scl/fi/xqzgmdns4c82cn4h4gd8h/RustDesk-Initialisation.mp4?rlkey=4l39ri71nqpkyc3zucg8fbabb",
+  "app_review": "https://dl.dropboxusercontent.com/scl/fi/xqzgmdns4c82cn4h4gd8h/RustDesk-Initialisation.mp4?rlkey=4l39ri71nqpkyc3zucg8fbabb",
+  "category": "Tutoriels"
+	},
   ],
   "apps": [
 	{
@@ -50,14 +85,6 @@
   "category": "Utilitaires"
 	},
 	{
-  "title": "AtlasPro : Adresses URL du serveur ",
-  "description": "Pour tester si blocage du FAI, laissez appuyer sur ok ici.\nSi vous voyez une page blanche avec ecrit ON en haut a gauche, le serveur est accessible pour vous.\nSi la page ne veut pas s afficher, rentrez une de ces 2 adresses dans votre application:\n\n- http://apbest.re \nou\n- http://ninap.xyz",
-  "url": "http://apbest.re",
-  "app_review": "http://apbest.re",
-  "ver": "1.00",
-  "category": "IPTV Atlas Pro"
-	},
-	{
   "title": "AtlasPro 9x **Maj du 01-02-2026**",
   "description": "AtlasPro 9x, nouvelle appli sortie le 20/01/2026",
   "url": "https://dl.dropboxusercontent.com/scl/fi/dt1w9cf94x4zcn50tekw6/ATLASPRO-9x-new.apk?rlkey=rj8jn1w6i0x6l6xhgpiqm1nvf&dl=0",
@@ -98,13 +125,6 @@
   "category": "IPTV Atlas Pro"
 	},
 	{
-  "title": "AtlasPro Apps après réinitialisation",
-  "description": "Installation applis AtlasPro après réinitialisation du boitier",
-  "url": "",
-  "app_review": "https://dl.dropboxusercontent.com/scl/fi/081iletf65zwqiya0s8xr/InstallAP.mp4?rlkey=y1nv31p56dzz3p0wmsshl68mt",
-  "category": "Tutoriels"
-	},
-	{
   "title": "Browser for ATV",
   "description": "Browser for ATV",
   "url": "https://www.dropbox.com/scl/fi/3cz9hxokw1fn0rbpr0k36/Browser-for-TV-2.13.36.apk?rlkey=u2xw1c6y8a7ta5063joplxcve&dl=1",
@@ -116,15 +136,9 @@
   "title": "ByeByeDPI ** NEW **",
   "description": "Une application Android qui execute un service VPN local pour contourner le DPI (Deep Packet Inspection) et la censure.",
   "url": "https://github.com/romanvht/ByeByeDPI/releases/download/v.1.7.5/ByeByeDPI-v1.7.5-armeabi-v7a-release.apk",
+  "app_review": "https://dl.dropboxusercontent.com/scl/fi/apemosaieow0pqpwadpch/ByeByeDPI.mp4?rlkey=0je46l2eisaxbmv2bcet0alyk",
   "ver": "1.7.5",
   "category": "VPN"
-	},
-	{
-  "title": "Changer les DNS v2",
-  "description": "Utilisation de ByeByeDPI pour modifier les DNS",
-  "url": "",
-  "app_review": "https://dl.dropboxusercontent.com/scl/fi/apemosaieow0pqpwadpch/ByeByeDPI.mp4?rlkey=0je46l2eisaxbmv2bcet0alyk",
-  "category": "Tutoriels"
 	},
 	{
   "title": "Device Info HW+",
@@ -154,7 +168,7 @@
   "title": "Intra DNS ** NEW **",
   "description": "Intra vous protège contre la manipulation DNS, une technique de piratage visant à bloquer l'accès aux sites de presse",
   "url": "https://dl.dropboxusercontent.com/scl/fi/yfxo4aq6iql4u8y7pec3k/app.intra_72.apk?rlkey=73tsbv082hromo9dtd57ewhd5&dl=0",
-  "app_review": "https://getintra.org/intl/fr_fr/#!/",
+  "app_review": "https://getintra.org",
   "ver": "1.4.1",
   "category": "VPN"
 	},
@@ -231,20 +245,6 @@
   "category": "Assistance"
 	},
 	{
-  "title": "Rustdesk Depannage",
-  "description": "Quand RustDesk est DEJA installe",
-  "url": "",
-  "app_review": "https://dl.dropboxusercontent.com/scl/fi/exbynvv3pzdbuh0lrufsh/Rustdesk-D-pannage.mp4?rlkey=cf75l1o7yh7dythr1cg9zylfx",
-  "category": "Tutoriels"
-	},
-	{
-  "title": "RustDesk Initialisation",
-  "description": "Si reinitialisation du boitier et besoin de configurer le logiciel",
-  "url": "",
-  "app_review": "https://dl.dropboxusercontent.com/scl/fi/xqzgmdns4c82cn4h4gd8h/RustDesk-Initialisation.mp4?rlkey=4l39ri71nqpkyc3zucg8fbabb",
-  "category": "Tutoriels"
-	},
-	{
   "title": "SmartTube",
   "description": "Un excellent remplacement pour YouTube classique. Interface conviviale, frequence d'images automatiques (pour les decodeurs), pas de publicite et SponsorBlock. Version stable.",
   "url": "https://github.com/yuliskov/SmartTube/releases/download/latest/smarttube_stable.apk",
@@ -268,18 +268,6 @@
   "mirror": "https://cobalt.6513006.xyz",
   "ver": "1.0.8-2026",
   "category": "YouTube"
-	},
-	{
-  "title": "Tutoriels",
-  "description": "Lien vers le dossier des videos Tutoriels",
-  "url": "https://www.dropbox.com/scl/fo/tz7rfh7px0z06suppb6hh/ADpros8Em49429MkIPm8MdE?rlkey=ij3f62pl9v68st5qr9xqk0fgw&dl=0",
-  "category": "Tutoriels"
-	},
-	{
-  "title": "Verificateur Resolveur DNS",
-  "description": "Site Browserleaks.com pour verifier les DNS actuels du boitier/telephone",
-  "url": "https://browserleaks.com/dns",
-  "category": "Tutoriels"
 	},
 	{
   "title": "VIA Browser",
