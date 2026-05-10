@@ -49,11 +49,11 @@
   "category": "Utilitaires"
 	},
 	{
-  "title": "AtlasPro 9x **Maj du 01-02-2026**",
+  "title": "AtlasPro 9x",
   "description": "AtlasPro 9x, nouvelle appli sortie le 20/01/2026",
   "url": "https://dl.dropboxusercontent.com/scl/fi/dt1w9cf94x4zcn50tekw6/ATLASPRO-9x-new.apk?rlkey=rj8jn1w6i0x6l6xhgpiqm1nvf&dl=0",
   "app_review": "",
-  "ver": "1.3.5",
+  "ver": "1.3.5-20260201",
   "category": "IPTV Atlas Pro"
 	},
 	{
@@ -65,15 +65,15 @@
   "category": "IPTV Atlas Pro"
 	},
 	{
-  "title": "AtlasPro Max **Maj du 26-01-2026**",
+  "title": "AtlasPro Max",
   "description": "AtlasPro Max, inspiree de XCIPTV et avec une interface classique",
   "url": "https://dl.dropboxusercontent.com/scl/fi/hs6ayaqb46ci0b3jifmgc/ATLASPRO-MAX-7.0.2001.apk?rlkey=xdius6s4ps6wc5xt658kx80c2&dl=0",
   "app_review": "",
-  "ver": "7.0.2001",
+  "ver": "7.0.2001-20260126",
   "category": "IPTV Atlas Pro"
 	},
 	{
-  "title": "AtlasPro ONTV **Maj du 26-01-2026**",
+  "title": "AtlasPro ONTV",
   "description": "AtlasPro ONTV 4, inspiree de IPTV Smarters Pro avec fonction de telechargement de films ou episodes de series pour visionnage en hors-ligne.",
   "url": "https://dl.dropboxusercontent.com/scl/fi/e51sfpmsh3o46hb8z9kdq/ATLASPRO-ONTV-4.0.2.apk?rlkey=bnkggnbe2s45vn4ps1l74jdbc&st=q055fymq&dl=0",
   "app_review": "",
@@ -209,7 +209,7 @@
   "category": "Assistance"
 	},
 	{
-  "title": "SmartTube [ ▶︎ ]",
+  "title": "SmartTube ▶️YouTube",
   "description": "Un excellent remplacement pour YouTube classique. Interface conviviale, frequence d'images automatiques (pour les decodeurs), pas de publicite et SponsorBlock. Version stable.",
   "url": "https://github.com/yuliskov/SmartTube/releases/download/latest/smarttube_stable.apk",
   "mirror": "https://go.aftvnews.com/28544",
@@ -259,8 +259,8 @@
   "category": "Lecteurs videos"
 	},
 	{
-  "title": "XCIPTV 7.0 modded",
-  "description": "XCIPTV PLAYER utilise ExoPlayer et VLC Player. Cette application peut etre installee sur les telephones, tablettes et televiseurs Android.\nAdresses URL du serveur:\n\n- http://dob-1.com \nou\n- https://150250.org:8080 \nou\n- http://280360.org",
+  "title": "XCIPTV 7.0",
+  "description": "XCIPTV PLAYER utilise ExoPlayer et VLC Player. Cette application peut etre installee sur les telephones, tablettes et televiseurs Android.\nAdresses URL du serveur: http://dob-1.com",
   "url": "https://dl.dropboxusercontent.com/scl/fi/m87i3le836xvrpt2nzvgb/XCIPTV-v7.0-Mod.apk?rlkey=2qedmb5bsy229xtizzkz5ub3y&dl=0",
   "app_review": "",
   "ver": "7.0.909",
@@ -302,7 +302,7 @@
   "title": "Z- Rustdesk Depannage",
   "description": "Quand RustDesk est DEJA installe, et si besoin qu'une personne se connecte au boitier/TV",
   "url": "",
-  "app_review": "",
+  "app_review": "https://dl.dropboxusercontent.com/scl/fi/exbynvv3pzdbuh0lrufsh/Rustdesk-D-pannage.mp4?rlkey=cf75l1o7yh7dythr1cg9zylfx",
   "ver": "",
   "category": "Y- Tutoriels"
 	},
